@@ -38,6 +38,8 @@ E8
 Enter the second coordinate for your Patrol Boat
 E9
 
+- 
+"To play against another player on the same computer, simply follow the onscreen instructions"
 
 Networking Portion
 
