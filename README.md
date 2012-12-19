@@ -43,6 +43,10 @@ E9
 
 Networking Portion
 
+- Some of the portion of this software was taken from an online source. The server part is from this website
+- http://thesmithfam.org/blog/2009/07/09/example-qt-chat-program/
+- I have written my own sockettest file which is motivated from the same website and some youtube videos.
+
 - You may test this on your computer. 
 - Make you working directory Server
 - run qmake make....if there was an error then run make clean and then qmake and make
